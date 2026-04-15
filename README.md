@@ -1,32 +1,73 @@
-# Hey, I'm Anmol
+<h1 align="center">Hey there, I'm Anmol 👋</h1>
 
-**Frontend Engineer** with 7+ years building mobile apps that reach millions of users.
+<p align="center">
+  <strong>Frontend Engineer · React Native · 7+ Years · 10M+ Users</strong>
+</p>
 
-I specialize in React Native and have shipped products across fintech, sports, health & fitness, and hospitality — from writing my first component to leading engineering teams.
-
-### Where I've built things
-
-| Company | Role | What I did |
-|---------|------|------------|
-| **HiFy Club** | Founding Engineer | Building the product ground-up — analytics, push notifications, core features from day one |
-| **Dream Sports** | SDE-III | Geofencing, DNS resolution, and KYC flows for a sports platform |
-| **Upstox** | SDE-III / Team Lead | Led the Mutual Funds squad — planning, releases, code audits, mentoring |
-| **Vita Mojo** | Senior Engineer | Migrated Cordova → React Native for Subway and iZettle kiosks (remote, UK) |
-| **StepSetGo** | Developer → Eng Manager | Built gamification features from scratch, grew to managing a 4-person team |
-| **Classpro** | React Native Developer | Whitelabel mobile apps for coaching institutes |
-
-### What I work with
-
-`React Native` `TypeScript` `Ruby on Rails` `Redux` `Firebase` `REST APIs` `Push Notifications` `WebView Bridges`
-
-### Why this GitHub looks quiet
-
-Most of my production work lives in private company repos (Bitbucket, GitHub Enterprise, etc.) — the reality of working at product companies for 7 years.
-
-For a better look at what I build, check out my portfolio — it has **interactive demos** of the kind of systems I've worked on: real-time stock tickers, slot machine gamification, kiosk ordering flows, push notification composers, and geofencing visualizers. All built from scratch.
-
-**[anmolpandey.com](https://anmolpandey.com)**
+<p align="center">
+  <a href="https://anmolpandey.com"><img src="https://img.shields.io/badge/Portfolio-anmolpandey.com-e8734a?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anmolpandey/"><img src="https://img.shields.io/badge/LinkedIn-anmolpandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anmolpandeyyy+portfolio@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-<sub>Mumbai, India · [LinkedIn](https://www.linkedin.com/in/anmolpandey/) · [Email](mailto:anmolpandeyyy+portfolio@gmail.com)</sub>
+### 🧑‍💻 About Me
+
+- 🔭 Currently a **Founding Engineer** at **HiFy Club** — building the product from the ground up
+- 📱 I specialize in **React Native** and have shipped apps used by **10M+ users**
+- 🏢 Worked across **6 companies** in fintech, sports, health & fitness, and hospitality
+- 🚀 Went from writing my first component to **leading engineering teams**
+- 📍 Based in **Mumbai, India**
+- 💬 Ask me about **React Native, mobile architecture, push notifications, app releases**
+
+---
+
+### 🏗️ Where I've Built Things
+
+| | Company | Role | Highlight |
+|---|---------|------|-----------|
+| 🟢 | **HiFy Club** | Founding Engineer | Analytics framework, push pipeline, core features from day one |
+| 🏏 | **Dream Sports** | SDE-III | Geofencing, DNS resolution, KYC flows |
+| 📈 | **Upstox** | SDE-III / Team Lead | Led Mutual Funds squad — planning, releases, mentoring |
+| 🍔 | **Vita Mojo (UK)** | Senior Engineer | Migrated Cordova → React Native for Subway & iZettle |
+| 👟 | **StepSetGo** | Dev → Eng Manager | Built gamification features, grew to managing a 4-person team |
+| 📚 | **Classpro** | RN Developer | Whitelabel mobile apps for coaching institutes |
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmolpandeyy&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e8734a&icon_color=e8734a&text_color=a8a29e" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anmolpandeyy&theme=radical&hide_border=true&background=0D1117&ring=e8734a&fire=e8734a&currStreakLabel=e8734a&sideLabels=a8a29e&dates=6b6560" height="165" />
+</p>
+
+---
+
+### 🎯 Why This GitHub Looks Quiet
+
+> Most of my production work lives in **private company repos** (Bitbucket, GitHub Enterprise) — 7 years of shipping at product companies.
+>
+> For a real look at what I build, check out my **[portfolio](https://anmolpandey.com)** — it has interactive demos of stock tickers, slot machines, kiosk ordering, push notification composers, and geofencing visualizers. All built from scratch.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anmolpandeyy&style=for-the-badge&color=e8734a&label=PROFILE+VIEWS" />
+</p>
