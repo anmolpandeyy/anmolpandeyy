@@ -51,15 +51,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmolpandeyy&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e8734a&icon_color=e8734a&text_color=a8a29e" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anmolpandeyy&theme=radical&hide_border=true&background=0D1117&ring=e8734a&fire=e8734a&currStreakLabel=e8734a&sideLabels=a8a29e&dates=6b6560" height="165" />
-</p>
-
----
-
 ### 🎯 Why This GitHub Looks Quiet
 
 > Most of my production work lives in **private company repos** (Bitbucket, GitHub Enterprise) — 7 years of shipping at product companies.
