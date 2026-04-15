@@ -30,7 +30,7 @@
 | 🟢 | **HiFy Club** | Founding Engineer | Analytics framework, push pipeline, core features from day one |
 | 🏏 | **Dream Sports** | SDE-III | Geofencing, DNS resolution, KYC flows |
 | 📈 | **Upstox** | SDE-III / Team Lead | Led Mutual Funds squad — planning, releases, mentoring |
-| 🍔 | **Vita Mojo (UK)** | Senior Engineer | Migrated Cordova → React Native for Subway & iZettle |
+| 🍔 | **Vita Mojo (UK)** | Senior Engineer | Migrated Cordova → React Native for Subway & iZettle (B2B) |
 | 👟 | **StepSetGo** | Dev → Eng Manager | Built gamification features, grew to managing a 4-person team |
 | 📚 | **Classpro** | RN Developer | Whitelabel mobile apps for coaching institutes |
 
